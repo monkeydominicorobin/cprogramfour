@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	char name[31];
-	scanf("%s",name);
-	printf("Hello %s!\n",name);
+	char dominico[31];
+	scanf("%s",dominico);
+	printf("Hello %s!\n",dominico);
 	return 0;
 }
